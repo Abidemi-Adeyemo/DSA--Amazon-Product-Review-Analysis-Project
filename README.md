@@ -13,7 +13,6 @@ This Data Analysis Project aims to generate insight into the sales performance o
 The primary source of data used here is Amazon case study .xlsx, scraped from Amazon product pages  
 
 ### Tools Used
-Pivot Tables- (MS Excel)  
-Charts - (MS Excel)
+MS Excel - (Calculated column, Pivot table, Charts on Dashboard)
 
    
