@@ -43,5 +43,17 @@ This Analysis does Justice to the following:
 11. How does the rating relate to the level of discount? 
 12. How many products have fewer than 1,000 reviews? 
 13. Which categories have products with the highest discounts? 
-14. Identify the top 5 products in terms of rating and number of reviews combined. 
-   
+14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+15. ### Analysis
+
+### Findings
+Electronics, Computers & Accessories, and Home & Kitchen top the charts for product count and engagement.  
+Electronics has the highest number of reviews while Car & Motorbike has the lowest 
+Products in the Smartwatches and In-Ear categories have highest average ratings.  
+Home Improvement shows the highest discount percentage.  
+Computer & Accessories generated the highest actual revenue potential.  
+Products with high discounts still maintain high ratings, indicating a positive impact of discounting on customer satisfaction.  
+Majority of products are rated 4.0–4.5, showing high customer satisfaction.  
+Several products have less than 1,000 reviews, presenting opportunities for marketing boosts.
+
