@@ -55,5 +55,10 @@ Home Improvement shows the highest discount percentage.
 Computer & Accessories generated the highest actual revenue potential.  
 Products with high discounts still maintain high ratings, indicating a positive impact of discounting on customer satisfaction.  
 Majority of products are rated 4.0–4.5, showing high customer satisfaction.  
-Several products have less than 1,000 reviews, presenting opportunities for marketing boosts.
+
+### Recommendations
+1. Products with very high ratings but low reviews should be promoted to boost awareness.
+2. Electronics and Accessories drive the most review. Invest more in inventory, marketing, and customer experience in these categories.
+3. While discounts drive engagement, high discounts result in significant revenue loss. Aim for a balance
+4. Combine weaker products with stronger ones in bundles to improve sales volume without impacting individual revenue margins too deeply.
 
