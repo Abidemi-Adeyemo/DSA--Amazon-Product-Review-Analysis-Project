@@ -52,7 +52,7 @@ This Analysis does Justice to the following:
 
 ### Analysis
 
-### Findings
+### Analysis Findings
 1. Electronics, Computers & Accessories, and Home & Kitchen top the charts for product count and engagement.  
 2. Electronics has the highest number of reviews while Car & Motorbike has the lowest 
 3. Products in the Smartwatches and In-Ear categories have highest average ratings.  
