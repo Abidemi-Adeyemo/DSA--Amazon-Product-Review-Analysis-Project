@@ -50,8 +50,6 @@ This Analysis does Justice to the following:
 2. Deleting empty rows
 3. Adding Calculated Columns
 
-### Analysis
-
 ### Analysis Findings
 1. Electronics, Computers & Accessories, and Home & Kitchen top the charts for product count and engagement.  
 2. Electronics has the highest number of reviews while Car & Motorbike has the lowest 
